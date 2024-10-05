@@ -1,0 +1,360 @@
+@media screen and (max-width: 769px) {
+  #toggleButton i {
+    display: flex;
+    outline: none;
+    border: none;
+    margin-left: 12px;
+    margin-bottom: 20px;
+    font-size: 60px;
+
+  }
+  .bongbay{
+    left: 3%;
+  }
+  .bongbay2,.bongbay3{
+    width: 100px;
+    height: 100px;
+  }
+  .bongbay13,.bongbay14,.bongbay15,.bongbay16,.bongbay17,.bongbay18{
+    display: none;
+  }
+  .bongbay7,.bongbay10{
+    display: none;
+  }
+  .header {
+    flex-direction: column;
+    height: 423px;
+  }
+  .daotao {
+    width: 100%;
+  }
+
+
+  .menu-item {
+    font-size: 12px;
+    white-space: nowrap;
+    padding: 3px;
+    display: none;
+  }
+  .menu {
+    display: none;
+    position: absolute;
+    top: 260px;
+    left: 10px;
+    width: 100%;
+ 
+  }
+  #menu li{
+    list-style: none;
+  }
+  #menu a{
+    color:rgb(239, 235, 235);
+    font-size: 10px;
+  }
+  
+  .menu > div >ul{
+    display: flex;
+        justify-content: space-between;
+  }
+  .header-between {
+    margin: auto;
+  }
+  .o {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto auto;
+    gap: 10px;
+    margin: auto;
+    /* display: flex; */
+    /* flex-direction: column; */
+  }
+  .vuong {
+    width: auto;
+  }
+  .hanhtrinh {
+    margin-top: 82px;
+    overflow: hidden;
+  }
+
+  .hanhtrinh1 {
+    flex-basis: 100%;
+    margin-top: 32px;
+  }
+
+  .content-4-chu-2 p {
+    font-size: 12px;
+    line-height: 12px;
+    margin-top: 0;
+  }
+  .content-4 {
+    text-align: left;
+    padding: 0px 20px;
+    width: 100%;
+  }
+  .ctdaihoc {
+    font-size: 12px;
+    line-height: 12px;
+  }
+
+  .content-7 {
+    padding-right: 0;
+  }
+  .call-2{
+    padding-right: 0;
+    width: 100%;
+  }
+  .call-2 p {
+    font-size: 12px;
+  }
+  .content-5.top5 {
+display: flex;
+justify-content: space-between;
+  }
+  .content-5-dongho p {
+    font-size: 12px;
+  }
+  .content-5 {
+    justify-content: space-around;
+  }
+  .xemthem p {
+    font-size: 12px;
+  }
+
+  .vuong-10 {
+    margin-top: 28px;
+  }
+  .lienhe-1 {
+    line-height: 20px;
+    font-size: 13px;
+    display: flex;
+  }
+  .lienhe {
+    margin-top: 35px;
+  }
+  .lienhe-1-bentrai {
+    text-align: center;
+    padding-left: 0;
+    text-align: center;
+  }
+  .ctdaihoc p {
+    font-size: 15px;
+    font-weight: 300;
+  }
+  .chuongtrinh p {
+    font-size: 12px;
+    font-weight: 300;
+  }
+ 
+  .hoptac-chu-hoatdong p {
+    font-size: 13px;
+  }
+  .hanhtrinh1 p:nth-of-type(2) {
+    font-size: 15px;
+    font-weight: 300;
+  }
+
+  .call-2 p:nth-of-type(1) {
+    padding-top: 5px;
+    font-weight: 900;
+    padding-left: 0;
+    font-size: 10px;
+  }
+  .xemthem2 a {
+    font-size: 17px;
+  }
+  .hoptac-chu-hoatdong p {
+    margin: 0;
+  }
+
+  .o .vuong:nth-child(2n) {
+    margin-top: 60px;
+  }
+  .content-5 {
+    padding-top: 0;
+  }
+  .content-4-chu p {
+    font-size: 13px;
+  }
+  .content-4 > div {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+  }
+  .content-6-chu-a {
+    font-size: 12px;
+    margin-top: 30px;
+  }
+  .noidung {
+    margin-top: 0;
+  }
+  .tintuc1,
+  .tintuc {
+    margin-right: 0;
+    text-align: center;
+  }
+
+  .anh img {
+    height: 100%;
+  }
+  .ctdaihoc p {
+    font-size: 8px;
+  }
+  .content-6 {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .content-7-chu-a {
+    text-align: center;
+    font-size: 12px;
+  }
+  .content-7-chu-a1 {
+    font-size: 12px;
+    text-align: center;
+  }
+  .hoptac-chu p {
+    font-size: 12px;
+  }
+ 
+
+  .trainghiem1 {
+    font-size: 10px;
+    text-align: center;
+  }
+  .trainghiem2 {
+    font-size: 7px;
+    text-align: center;
+  }
+  
+  .vuong3,
+  .vuong1,
+  .vuong2,
+  .vuong5,
+  .vuong4 {
+    width: 80%;
+  }
+  .vuong-10 {
+    flex-direction: column;
+  }
+  .vuong-1 {
+    width: 100%;
+  }
+  .call-1 {
+    margin: auto;
+    width: 100%;
+  }
+  #call {
+    flex-direction: column;
+  }
+  .chiase {
+    height: 0;
+  }
+  .hoptac {
+    text-align: center;
+  }
+  .o1 ,.o2 {
+     /* flex-direction: column;  */
+    /* width: 80%; */
+    align-items: center;
+  }
+  .content-1 {
+    flex-direction: column;
+  }
+  .content-3,
+  .content-4 {
+    margin: auto;
+  }
+  .content-3 img {
+    height: 100%;
+  }
+  .content-6-chu {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  .chu p {
+    font-size: 20px;
+    font-weight: 900;
+    margin-top: 0;
+  }
+  .chu-duoi p {
+    font-size: 12px;
+  }
+  .chu {
+    padding: 0;
+  }
+  .top1 p:first-child {
+    font-size: 18px;
+  }
+  .logo-1 img {
+    width: 63px;
+  }
+  .lienhe-1-bentrai, .lienhe-1-benphai {
+    flex-basis: 100%;
+    margin-top: 16px;
+}
+}
+
+@media screen and (max-width: 1441px) {
+  .fa-bars {
+    display: none;
+  }
+}
+@media screen and (max-width: 2561px) {
+  .fa-bars {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 1025px) {
+  .header {
+    flex-direction: column;
+  }
+  .menu-item {
+    font-size: 12px;
+    white-space: nowrap;
+    padding: 3px;
+  }
+  .header-between {
+    justify-content: center;
+  }
+
+  .top-menu ul {
+    justify-content: center;
+  }
+  .content-4-chu-2 p {
+    font-size: 12px;
+  }
+  .content-4-chu p {
+    font-size: 17px;
+  }
+  .ctdaihoc {
+    font-size: 12px;
+  }
+  .content-7 {
+    padding-right: 0;
+  }
+  .vuong-10 {
+    margin-top: 25px;
+  }
+  .lienhe {
+    margin-top: 30px;
+  }
+  .lienhe-1-bentrai,
+  .lienhe-1-benphai-1,
+  .lienhe-1-benphai-2 {
+    font-size: 12px;
+  }
+  .call-2 p {
+    font-size: 12px;
+  }
+  .call-2 p:nth-of-type(2) {
+    font-size: 15px;
+    padding-right: 0;
+    padding-left: 0;
+    text-align: center;
+  }
+
+  .top-menu {
+    justify-content: center;
+  }
+}
